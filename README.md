@@ -13,4 +13,4 @@ This project was done using the AWS ecosystem, utilising AWS's S3 bucket to stor
 ## Data Cleaning and Modelling
 This project utilises the PySpark library for data cleaning and model building due to its efficiency in handling large datasets. In addition, libraries such as matplotlib and seborn were used for visualisation. 
 
-The model selected for this project was a Gradient Boosting Machine, which managed to achieve an AUC score of 84%.
+The model selected for this project was a Gradient Boosting Machine, which managed to achieve an AUC score of 87%.
